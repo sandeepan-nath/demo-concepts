@@ -3,3 +3,5 @@ test -  changed
 changed
 
 from git bash
+
+feature2 changes
